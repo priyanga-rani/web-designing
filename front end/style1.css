@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+section{
+
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
